@@ -9,7 +9,7 @@ public class Ember {
     }
     
     public String koszont(){
-        return "Üdvözöllek, "+ nev+"!";
+        return "Üdvözlet, "+ nev+"!";
     }
     
 }
